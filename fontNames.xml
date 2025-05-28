@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+
+<!--Notice: Special care for Fancy 17 & 38-->
+<fonts>
+    <fontCodePoint>
+        <fontName>78 111 114 109 97 108</fontName>    <!--0:Normal-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>120138 120165 120163 120166 120148 120156</fontName> <!--1:Double Struck-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>120336 120373 120354 120365 120362 120356</fontName>    <!--13: Italic-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>119809 119848 119845 119837</fontName>    <!--12: Bold-->
+    </fontCodePoint>
+
+
+
+    <fontCodePoint>
+        <fontName>120381 120420 120417 120409 32 120388 120425 120406 120417 120414 120408</fontName>   <!--14: Bold Italic-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>120470 120472 120471 120472 120476 120473 120458 120460 120462</fontName>  <!--10: monospace-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>120034 120044 120059 120050 120057 120061</fontName>   <!--15: Script-->
+    </fontCodePoint>
+
+
+    <fontCodePoint>
+        <fontName>119986 120007 119998 120009 119998 120003 119892</fontName>    <!--16: Writing-->
+    </fontCodePoint>
+
+
+
+    <fontCodePoint>
+        <fontName>120073 120111 120094 120104 120113 120114 120111</fontName>   <!--4: Fraktur-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>120173 120212 120209 120201 32 120177 120215 120198 120208 120217 120218 120215</fontName>    <!--5: Bold Fraktur-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>115 7437 7424 671 671 32 7428 7424 7448 115</fontName>    <!--6: Small caps-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>127313 127323 127312 127314 127322</fontName>   <!--7: Black Bubble-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>9399 9444 9425 9425 9435 9428</fontName>  <!--2: White bubble-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>127298 127296 127300 127280 127297 127284</fontName>  <!--3: White Square-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>8373 580 11364 11364 582 8358 8373 590</fontName> <!--8: Currency-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>1414 1413 640 392 603 640 603 640</fontName>   <!--9: Sorcerer-->
+    </fontCodePoint>
+
+
+
+    <fontCodePoint>
+        <fontName>945 1080 1090 1103 963 961 1085 963 1074 953 945</fontName>   <!--11: Antrophobia-->
+    </fontCodePoint>
+
+
+
+
+
+
+    <fontCodePoint>
+        <fontName>642 625 963 963 410 1291</fontName>    <!--17: Smooth-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>6203 43670 7010 6262 43670 3093 43671</fontName>    <!--18: Fantasy-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>5556 5290 5609 75 89</fontName>   <!--19: Flaky-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>29226 21314 20960 5046 21314</fontName>   <!--20: Manga-->
+    </fontCodePoint>
+
+    <fontCodePoint> <!--21: Block-->
+        <fontName>665 671 7439 7428 7435 115</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>117 112 115 105 100 101 32 100 111 119 110</fontName> <!--22: Upside down-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>127362 65038 127360 65038 127364 65038 127344 65038 127361 65038 127348 65038</fontName>    <!--23: Black Square-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>1071 1094 36 1111 102 1095</fontName> <!--24: Rusify-->
+    </fontCodePoint>
+
+
+    <fontCodePoint><!--25: Wierd-->
+        <fontName>87 824 879 830 786 831 840 105 821 782 851 857 817 858 863 101 823 821 774 778 790 808 807 811 791 114 822 823 848 830 768 818 845 813 863 100 824 788 869 809 801 845 860</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint><!--26: Noisy-->
+        <fontName>78 852 852 831 842 775 805 826 798 111 857 857 868 875 862 793 792 793 105 827 827 849 874 830 807 841 796 863 115 798 798 836 768 879 808 837 816 846 846 781 871 810 809 853 121 857 857 875 844 833 810 816</fontName>
+    </fontCodePoint>
+
+
+<!--    <fontCodePoint>-->
+<!--        <fontName>115 830 111 870 32 104 874 111 870 116 877</fontName>&lt;!&ndash;So hot&ndash;&gt;-->
+<!--    </fontCodePoint>-->
+
+    <fontCodePoint>
+        <fontName>65331 65360 65345 65347 65353 65358 65351</fontName>       <!--27: Spacing-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>66 108 117 114 114 121</fontName>       <!--28: Blurry-->
+    </fontCodePoint>
+
+    <fontCodePoint><!--29: Zalgo-->
+        <fontName>90 1161 838 864 864 866 97 1161 770 771 785 829 864 865 854 799 796 798 866 866 108 822 1161 781 836 773 855 783 775 861 816 858 854 853 866 860 860 103 823 821 824 868 876 773 862 828 817 846 846 798 801 866 863 111 1161 780 855 832 861 802 801 818 839 866</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>72 52 107 51 114</fontName> <!--30: H4k3r-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>7451 618 628 655 32 7428 7424 7448</fontName> <!--31: Tiny Cap-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>688 8305 7501 688 32 7491 7495 7506 7515 7497</fontName> <!--32: High above-->
+    </fontCodePoint>
+
+    <fontCodePoint><!--33: Bars-->
+        <fontName>66 821 821 780 772 772 836 862 851 811 818 813 852 863 97 821 821 780 772 772 836 862 851 811 818 813 852 863 114 821 821 780 772 772 836 862 851 811 818 813 852 863 115 821 821 780 772 772 836 862 851 811 818 813 852 863</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint><!--34: Squiggles-->
+        <fontName>83 819 819 872 769 875 864 864 862 862 828 799 814 860 113 819 819 872 769 875 864 864 862 862 828 799 814 860 117 819 819 872 769 875 864 864 862 862 828 799 814 860 105 819 819 872 769 875 864 864 862 862 828 799 814 860 103 819 819 872 769 875 864 864 862 862 828 799 814 860 103 819 819 872 769 875 864 864 862 862 828 799 814 860 108 819 819 872 769 875 864 864 862 862 828 799 814 860 101 819 819 872 769 875 864 864 862 862 828 799 814 860 115 819 819 872 769 875 864 864 862 862 828 799 814 860</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint><!--35: Stringy-->
+        <fontName>83 801 802 801 802 116 801 802 801 802 114 801 802 801 802 105 801 802 801 802 110 801 802 801 802 103 801 802 801 802 121 801 802 801 802</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint><!--36: Fire-->
+        <fontName>70 1160 1161 1160 1161 105 1160 1161 1160 1161 114 1160 1161 1160 1161 101 1160 1161 1160 1161</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint><!--37: Messy-->
+        <fontName>77 42610 42610 101 42610 42610 115 42610 42610 115 42610 42610 121 42610 42610</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint><!--38: Lines-->
+        <fontName>76 862 863 831 819 73 862 863 831 819 78 862 863 831 819 69 862 863 831 819 83 862 863 831 819</fontName>
+    </fontCodePoint>
+
+
+
+    <fontCodePoint>
+        <fontName>1274 955 66704 66728 66701 32 49</fontName> <!--39: Fancy 1-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>3311 5079 66704 5091 5053 32 50</fontName> <!--40: Fancy 2-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>1274 5079 5057 5087 5053 32 51</fontName> <!--41: Fancy 3-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>3311 5039 4278 5087 5053 32 52</fontName> <!--42: Fancy 4-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>358 258 323 268 374 32 53</fontName> <!--43: Fancy 5-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>5030 5079 5057 4936 5033 32 54</fontName> <!--44: Fancy 6-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>8355 916 327 262 165 32 55</fontName> <!--45: Fancy 7-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>402 945 627 2798 4327 32 56</fontName> <!--46: Fancy 8-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>8355 8371 8358 8353 165 32 57</fontName> <!--47: Fancy 9-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>358 3588 3616 962 41766 32 49 48</fontName> <!--48: Fancy 10-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>1330 3588 1352 2414 4327 32 49 49</fontName> <!--49: Fancy 11-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41240 41707 41081 41555 41765 32 49 50</fontName> <!--50: Fancy 12-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>402 229 241 231 255 32 49 51</fontName> <!--51: Fancy 13-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>402 261 626 572 165 32 49 52</fontName> <!--52: Fancy 14-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>102 4315 8134 4308 4327 32 49 53</fontName> <!--53: Fancy 15-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>401 195 327 268 1038 32 49 54</fontName> <!--54: Fancy 16-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>5556 5573 5641 5220 5563 32 49 55</fontName> <!--55: Fancy 17-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41863 41807 41508 41555 41769 32 49 56</fontName> <!--56: Fancy 18-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41647 41074 41172 41971 42004 32 49 57</fontName> <!--57: Fancy 19-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>1171 940 942 962 1095 32 50 48</fontName> <!--58: Fancy 20-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>41240 41707 41081 41976 42015 32 50 49</fontName> <!--59: Fancy 21-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>402 1044 1048 8450 1059 32 50 50</fontName> <!--60: Fancy 22-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>70 1044 1048 67 1059 32 50 51</fontName> <!--61: Fancy 23-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>644 479 1404 392 655 32 50 52</fontName> <!--62: Fancy 24-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>402 593 1394 1010 1406 32 50 53</fontName> <!--63: Fancy 25-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41863 41807 41508 41555 41769 32 50 54</fontName> <!--64: Fancy 26-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>7584 7468 7482 7580 7518 32 50 55</fontName> <!--65: Fancy 27-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41648 41708 41674 41556 41766 32 50 56</fontName> <!--66: Fancy 28-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>70 923 1051 12552 996 32 50 57</fontName> <!--67: Fancy 29-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>401 411 413 391 435 32 51 48</fontName> <!--68: Fancy 30-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>41246 41074 41674 41007 42014 32 51 49</fontName> <!--69: Fancy 31-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41247 41708 41114 41971 42014 32 51 50</fontName> <!--70: Fancy 32-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>1330 1337 1356 1351 1358 32 51 51</fontName> <!--71: Fancy 33-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>65399 65425 20992 4355 65432 32 51 52</fontName> <!--72: Fancy 34-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>402 945 951 962 968 32 51 53</fontName> <!--73: Fancy 35-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>102 3588 3734 162 3631 32 51 54</fontName> <!--74: Fancy 36-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>644 261 331 392 4327 32 51 55</fontName> <!--75: Fancy 37-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>5556 5609 5641 5218 5563 32 51 56</fontName> <!--76: Fancy 38-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41241 41074 41674 41411 41110 32 51 57</fontName> <!--77: Fancy 39-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>41648 5489 3616 42141 5033 32 52 48</fontName> <!--78: Fancy 40-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>4731 4621 4781 4653 4611 32 52 49</fontName> <!--79: Fancy 41-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>83 822 116 822 114 822 105 822 107 822 101 822</fontName> <!--80: Strikethrough-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>84 820 105 820 108 820 100 820 101 820</fontName> <!--81: Tilde-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>83 823 108 823 97 823 115 823 104 823</fontName>  <!--82: Slash-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>66 818 101 818 108 818 111 818 119 818</fontName> <!--83: Underline-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>68 819 111 819 117 819 98 819 108 819 101 819</fontName> <!--84: Double underline-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>73 1161 110 1161 107 1161</fontName>   <!--85: Ink-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>68 1161 1161 111 1161 1161 117 1161 1161 98 1161 1161 108 1161 1161 101 1161 1161 32 73 1161 1161 110 1161 1161 107 1161 1161</fontName>   <!--86: Double Ink-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>79 862 86 862 69 862 82 862</fontName>   <!--87: Over-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>85 863 110 863 100 863 101 863 114 863</fontName>   <!--88: Under-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>76 859 105 859 103 859 104 859 116 859 110 859 105 859 110 859 103 859</fontName> <!--89: Lightning-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>90 7624 105 7624 103 7624 122 7624 97 7624 103 7624</fontName> <!--90: Zigzag-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>69 850 121 850 101 850</fontName> <!--91: Eye-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>83 770 812 119 770 812 97 770 812 112 770 812</fontName> <!--92: Swap-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>87 864 97 864 118 864 101 864</fontName> <!--93: Wave-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>73 858 110 858 102 858 105 858 110 858 105 858 116 858 101 858</fontName> <!--94: Infinite-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>82 1159 105 1159 112 1159 112 1159 108 1159 101 1159</fontName> <!--95: Ripple-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>67 6774 104 6774 101 6774 99 6774 107 6774 101 6774 100 6774</fontName> <!--96: Checked-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>71 2085 114 2085 97 2085 115 2085 115 2085</fontName> <!--97: Grass-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>83 830 116 830 105 830 110 830 107 830 121 830</fontName>  <!--98: Stinky-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>66 838 114 838 105 838 100 838 103 838 101 838 32 97 838 98 838 111 838 118 838 101 838</fontName>    <!--99: Bridge Above-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>66 826 114 826 105 826 100 826 103 826 101 826 32 98 826 101 826 108 826 111 826 119 826</fontName>   <!--100: Bridge Below-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>80 799 108 799 117 799 115 799 32 98 799 101 799 108 799 111 799 119 799</fontName>    <!--101: Plus Below-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>65 846 114 846 114 846 111 846 119 846 32 98 846 101 846 108 846 111 846 119 846</fontName>   <!--102: Arrow-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>72 774 776 97 774 776 112 774 776 112 774 776 121 774 776</fontName>    <!--103: Happy-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>83 785 776 97 785 776 100 785 776</fontName>    <!--104: Sad-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>82 870 805 105 870 805 110 870 805 103 870 805 115 870 805</fontName>    <!--105: Ring-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>65 857 115 857 116 857 101 857 114 857 105 857 115 857 107 857</fontName> <!--106: Asterisk-->
+    </fontCodePoint>
+
+
+    <fontCodePoint> <!--107: Double xx-->
+        <fontName>68 829 851 111 829 851 117 829 851 98 829 851 108 829 851 101 829 851 32 120 829 851</fontName>
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>68 775 111 775 116 775 32 97 775 98 775 111 775 118 775 101 775</fontName>    <!--108: Dot above-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>83 8416 116 8416 111 8416 112 8416</fontName>    <!--109: Stop-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>67 865 860 108 865 860 111 865 860 117 865 860 100 865 860 121 865 860</fontName>    <!--110: Cloudy-->
+    </fontCodePoint>
+    <fontCodePoint>
+        <fontName>66 1160 105 1160 114 1160 100 1160 121 1160</fontName>    <!--111: Birdy-->
+    </fontCodePoint>
+
+    <fontCodePoint>
+        <fontName>82 97 116 101 32 117 115 32 53 9734</fontName>   <!--Rate us 5☆-->
+    </fontCodePoint>
+
+</fonts>
